@@ -1,0 +1,50 @@
+{
+  "Products": [
+    {
+      "ProductName": "Product 1",
+      "ProductDescription": "Description for Product 1",
+      "ProductSize": "Large",
+      "ProductPrice": "$19.99",
+      "ProductColor": "Red",
+      "ProductImage": "https://example.com/product1.jpg",
+      "ProductWebSite": "https://www.example.com/product1/"
+    },
+    {
+      "ProductName": "Product 2",
+      "ProductDescription": "Description for Product 2",
+      "ProductSize": "Medium",
+      "ProductPrice": "$14.99",
+      "ProductColor": "Blue",
+      "ProductImage": "https://example.com/product2.jpg",
+      "ProductWebSite": "https://www.example.com/product2/"
+    },
+    {
+      "ProductName": "Product 3",
+      "ProductDescription": "Description for Product 3",
+      "ProductSize": "Small",
+      "ProductPrice": "$9.99",
+      "ProductColor": "Green",
+      "ProductImage": "https://example.com/product3.jpg",
+      "ProductWebSite": "https://www.example.com/product3/"
+    },
+    {
+      "ProductName": "Product 4",
+      "ProductDescription": "Description for Product 4",
+      "ProductSize": "Extra Large",
+      "ProductPrice": "$24.99",
+      "ProductColor": "Yellow",
+      "ProductImage": "https://example.com/product4.jpg",
+      "ProductWebSite": "https://www.example.com/product4/"
+    },
+    {
+      "ProductName": "Product 5",
+      "ProductDescription": "Description for Product 5",
+      "ProductSize": "Medium",
+      "ProductPrice": "$17.99",
+      "ProductColor": "Purple",
+      "ProductImage": "https://example.com/product5.jpg",
+      "ProductWebSite": "https://www.example.com/product5/"
+    }
+  ],
+  "Status": "OK"
+}
